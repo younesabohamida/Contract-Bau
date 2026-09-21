@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789977796313,
+      "tag": "0000_contracting_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789977822571,
+      "tag": "0001_storage_attachments_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789979469880,
+      "tag": "0002_public_anon_access_no_login",
+      "breakpoints": true
+    }
+  ]
+}
